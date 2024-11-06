@@ -1,0 +1,8 @@
+1, Nguyễn Văn A, Phở bò
+2, Trần Thị B, Bánh mì
+3, Lê Minh C, Cơm tấm
+4, Phan Tiến D, Bánh cuốn
+5, Hoàng Lan E, Mì xào
+6, Đoàn Thị F, Hủ tiếu
+7, Nguyễn Minh G, Bún chả
+8, Lê Quốc H, Bánh bèo
